@@ -1,7 +1,7 @@
 {
   "source": "B3_COTAHIST_ajustado_quantidade_mais_brapi",
-  "collected_at_utc": "2026-11-20T19:39:48.701774+00:00",
-  "generated_at_utc": "2026-11-20T19:39:55.133380+00:00",
+  "collected_at_utc": "2026-11-21T03:59:50.861122+00:00",
+  "generated_at_utc": "2026-11-21T03:59:57.250891+00:00",
   "method": "close sem ajuste; MM simples; RSI Wilder; MACD EMA 12/26/9; volume relativo vs 20 pregões anteriores",
   "assets": {
     "PETR4": {
