@@ -1,7 +1,7 @@
 {
   "source": "B3_COTAHIST_ajustado_quantidade_mais_brapi",
-  "collected_at_utc": "2026-11-24T06:58:20.870375+00:00",
-  "generated_at_utc": "2026-11-24T06:58:26.868622+00:00",
+  "collected_at_utc": "2026-11-24T10:25:11.513651+00:00",
+  "generated_at_utc": "2026-11-24T10:25:17.340903+00:00",
   "method": "close sem ajuste; MM simples; RSI Wilder; MACD EMA 12/26/9; volume relativo vs 20 pregões anteriores",
   "assets": {
     "PETR4": {
@@ -76,14 +76,14 @@
       "ticker": "BOVA11",
       "last_candle_date": "2026-11-23",
       "candle_count": 1717,
-      "close": 162.01,
-      "mm20": 168.712,
-      "mm50": 182.60460000000003,
-      "mm200": 177.90279999999998,
-      "rsi14": 30.92223938445629,
-      "volume": 3441142,
+      "close": 162.35,
+      "mm20": 168.72899999999998,
+      "mm50": 182.61140000000003,
+      "mm200": 177.90449999999998,
+      "rsi14": 31.251113033357484,
+      "volume": 3735769,
       "volume_average_previous_20": 6611868.8,
-      "volume_relative": 0.5204492260947465,
+      "volume_relative": 0.565009547678865,
       "recent_support_reference": 161.77,
       "recent_resistance_reference": 202.67,
       "data_fresh_for_collection_day": true,
@@ -101,9 +101,9 @@
         "Candle do último pregão esperado, embora a coleta tenha ocorrido em outra data."
       ],
       "macd": {
-        "line": -5.856361171364199,
-        "signal": -5.736257922858824,
-        "histogram": -0.1201032485053748
+        "line": -5.829238664241672,
+        "signal": -5.730833421434319,
+        "histogram": -0.09840524280735252
       }
     },
     "ITUB4": {
