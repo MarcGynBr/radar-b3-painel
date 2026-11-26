@@ -1,25 +1,25 @@
 {
   "source": "B3_COTAHIST_ajustado_quantidade_mais_brapi",
-  "collected_at_utc": "2026-11-25T05:27:47.049325+00:00",
-  "generated_at_utc": "2026-11-25T05:27:53.052972+00:00",
+  "collected_at_utc": "2026-11-26T05:07:57.503692+00:00",
+  "generated_at_utc": "2026-11-26T05:08:03.881356+00:00",
   "method": "close sem ajuste; MM simples; RSI Wilder; MACD EMA 12/26/9; volume relativo vs 20 pregões anteriores",
   "assets": {
     "PETR4": {
       "ticker": "PETR4",
-      "last_candle_date": "2026-11-24",
-      "candle_count": 1718,
-      "close": 40.55,
-      "mm20": 46.63049999999999,
-      "mm50": 50.30520000000001,
-      "mm200": 44.884800000000006,
-      "rsi14": 24.053199787600633,
-      "volume": 89295300,
-      "volume_average_previous_20": 56597585.0,
-      "volume_relative": 1.5777227950627222,
-      "recent_support_reference": 41.27,
-      "recent_resistance_reference": 54.23,
+      "last_candle_date": "2026-11-25",
+      "candle_count": 1719,
+      "close": 41.36,
+      "mm20": 46.00449999999999,
+      "mm50": 50.152400000000014,
+      "mm200": 44.904,
+      "rsi14": 28.630407233425643,
+      "volume": 64227800,
+      "volume_average_previous_20": 58144975.0,
+      "volume_relative": 1.1046148011930523,
+      "recent_support_reference": 40.41,
+      "recent_resistance_reference": 53.7,
       "data_fresh_for_collection_day": true,
-      "expected_session_date": "2026-11-24",
+      "expected_session_date": "2026-11-25",
       "classification": "SEM_CONFIRMACAO",
       "technical_score": 2,
       "technical_reasons": [
@@ -33,27 +33,27 @@
         "Candle do último pregão esperado, embora a coleta tenha ocorrido em outra data."
       ],
       "macd": {
-        "line": -2.850452215886179,
-        "signal": -2.2680174894916236,
-        "histogram": -0.5824347263945553
+        "line": -2.860840752091491,
+        "signal": -2.3865821420115974,
+        "histogram": -0.47425861007989356
       }
     },
     "VALE3": {
       "ticker": "VALE3",
-      "last_candle_date": "2026-11-24",
-      "candle_count": 1718,
-      "close": 55.19,
-      "mm20": 61.75250000000002,
-      "mm50": 66.54740000000001,
-      "mm200": 76.83365,
-      "rsi14": 25.931770932693155,
-      "volume": 46877300,
-      "volume_average_previous_20": 26976960.0,
-      "volume_relative": 1.7376791158084528,
-      "recent_support_reference": 57.67,
-      "recent_resistance_reference": 67.99,
+      "last_candle_date": "2026-11-25",
+      "candle_count": 1719,
+      "close": 56.9,
+      "mm20": 61.37850000000002,
+      "mm50": 66.12140000000001,
+      "mm200": 76.671,
+      "rsi14": 33.194277726350535,
+      "volume": 37911900,
+      "volume_average_previous_20": 27971015.0,
+      "volume_relative": 1.3553995090989726,
+      "recent_support_reference": 55.05,
+      "recent_resistance_reference": 66.3,
       "data_fresh_for_collection_day": true,
-      "expected_session_date": "2026-11-24",
+      "expected_session_date": "2026-11-25",
       "classification": "SEM_CONFIRMACAO",
       "technical_score": 2,
       "technical_reasons": [
@@ -67,129 +67,27 @@
         "Candle do último pregão esperado, embora a coleta tenha ocorrido em outra data."
       ],
       "macd": {
-        "line": -2.353365625853556,
-        "signal": -1.9076086300377448,
-        "histogram": -0.44575699581581096
+        "line": -2.4469844311386098,
+        "signal": -2.015483790257918,
+        "histogram": -0.43150064088069184
       }
     },
     "BOVA11": {
       "ticker": "BOVA11",
-      "last_candle_date": "2026-11-24",
-      "candle_count": 1718,
-      "close": 161.49,
-      "mm20": 166.719,
-      "mm50": 182.13700000000006,
-      "mm200": 177.80099999999996,
-      "rsi14": 30.371230405815254,
-      "volume": 3540385,
-      "volume_average_previous_20": 6418718.65,
-      "volume_relative": 0.5515719247174045,
-      "recent_support_reference": 161.55,
-      "recent_resistance_reference": 176.6,
+      "last_candle_date": "2026-11-25",
+      "candle_count": 1719,
+      "close": 164.01,
+      "mm20": 166.29850000000002,
+      "mm50": 181.74020000000002,
+      "mm200": 177.73004999999995,
+      "rsi14": 36.05279073234921,
+      "volume": 4872906,
+      "volume_average_previous_20": 6195721.4,
+      "volume_relative": 0.7864953385412068,
+      "recent_support_reference": 161.48,
+      "recent_resistance_reference": 175.66,
       "data_fresh_for_collection_day": true,
-      "expected_session_date": "2026-11-24",
-      "classification": "SEM_CONFIRMACAO",
-      "technical_score": 0,
-      "technical_reasons": [
-        "Preço abaixo ou igual à MM20 (+0)",
-        "MM20 abaixo ou igual à MM50 (+0)",
-        "Histograma MACD não positivo (+0)",
-        "RSI fora da faixa de pontuação (+0)",
-        "Volume relativo abaixo de 1 ou indisponível (+0)"
-      ],
-      "warnings": [
-        "Candle do último pregão esperado, embora a coleta tenha ocorrido em outra data."
-      ],
-      "macd": {
-        "line": -5.865066161503535,
-        "signal": -5.757679969448162,
-        "histogram": -0.10738619205537248
-      }
-    },
-    "ITUB4": {
-      "ticker": "ITUB4",
-      "last_candle_date": "2026-11-24",
-      "candle_count": 1718,
-      "close": 39.74,
-      "mm20": 40.5055,
-      "mm50": 43.623000000000005,
-      "mm200": 42.743849999999995,
-      "rsi14": 37.24913095944892,
-      "volume": 18267100,
-      "volume_average_previous_20": 37542835.0,
-      "volume_relative": 0.4865668775413471,
-      "recent_support_reference": 38.11,
-      "recent_resistance_reference": 42.6,
-      "data_fresh_for_collection_day": true,
-      "expected_session_date": "2026-11-24",
-      "classification": "SEM_CONFIRMACAO",
-      "technical_score": 0,
-      "technical_reasons": [
-        "Preço abaixo ou igual à MM20 (+0)",
-        "MM20 abaixo ou igual à MM50 (+0)",
-        "Histograma MACD não positivo (+0)",
-        "RSI fora da faixa de pontuação (+0)",
-        "Volume relativo abaixo de 1 ou indisponível (+0)"
-      ],
-      "warnings": [
-        "Candle do último pregão esperado, embora a coleta tenha ocorrido em outra data."
-      ],
-      "macd": {
-        "line": -1.0900944868836433,
-        "signal": -1.0493053605339322,
-        "histogram": -0.0407891263497111
-      }
-    },
-    "BBAS3": {
-      "ticker": "BBAS3",
-      "last_candle_date": "2026-11-24",
-      "candle_count": 1718,
-      "close": 14.18,
-      "mm20": 15.9415,
-      "mm50": 20.384800000000006,
-      "mm200": 21.534550000000003,
-      "rsi14": 23.167943422109857,
-      "volume": 52488900,
-      "volume_average_previous_20": 72660350.0,
-      "volume_relative": 0.7223871065856413,
-      "recent_support_reference": 14.02,
-      "recent_resistance_reference": 18.31,
-      "data_fresh_for_collection_day": true,
-      "expected_session_date": "2026-11-24",
-      "classification": "SEM_CONFIRMACAO",
-      "technical_score": 0,
-      "technical_reasons": [
-        "Preço abaixo ou igual à MM20 (+0)",
-        "MM20 abaixo ou igual à MM50 (+0)",
-        "Histograma MACD não positivo (+0)",
-        "RSI fora da faixa de pontuação (+0)",
-        "Volume relativo abaixo de 1 ou indisponível (+0)"
-      ],
-      "warnings": [
-        "Candle do último pregão esperado, embora a coleta tenha ocorrido em outra data."
-      ],
-      "macd": {
-        "line": -1.8612970060650795,
-        "signal": -1.7931126231560488,
-        "histogram": -0.06818438290903073
-      }
-    },
-    "BBDC4": {
-      "ticker": "BBDC4",
-      "last_candle_date": "2026-11-24",
-      "candle_count": 1718,
-      "close": 13.62,
-      "mm20": 14.312999999999999,
-      "mm50": 17.457200000000004,
-      "mm200": 18.36569999999999,
-      "rsi14": 30.24819525045828,
-      "volume": 45428900,
-      "volume_average_previous_20": 79030885.0,
-      "volume_relative": 0.5748246397595067,
-      "recent_support_reference": 13.44,
-      "recent_resistance_reference": 16.3,
-      "data_fresh_for_collection_day": true,
-      "expected_session_date": "2026-11-24",
+      "expected_session_date": "2026-11-25",
       "classification": "SEM_CONFIRMACAO",
       "technical_score": 2,
       "technical_reasons": [
@@ -203,15 +101,127 @@
         "Candle do último pregão esperado, embora a coleta tenha ocorrido em outra data."
       ],
       "macd": {
-        "line": -1.11980428739178,
-        "signal": -1.1831037884515296,
-        "histogram": 0.06329950105974969
+        "line": -5.625272136150272,
+        "signal": -5.731198402788585,
+        "histogram": 0.1059262666383125
+      }
+    },
+    "ITUB4": {
+      "ticker": "ITUB4",
+      "last_candle_date": "2026-11-25",
+      "candle_count": 1719,
+      "close": 40.01,
+      "mm20": 40.421,
+      "mm50": 43.56860000000002,
+      "mm200": 42.7208,
+      "rsi14": 39.19761188821736,
+      "volume": 31772100,
+      "volume_average_previous_20": 37052505.0,
+      "volume_relative": 0.8574885827557408,
+      "recent_support_reference": 38.11,
+      "recent_resistance_reference": 42.6,
+      "data_fresh_for_collection_day": true,
+      "expected_session_date": "2026-11-25",
+      "classification": "SEM_CONFIRMACAO",
+      "technical_score": 0,
+      "technical_reasons": [
+        "Preço abaixo ou igual à MM20 (+0)",
+        "MM20 abaixo ou igual à MM50 (+0)",
+        "Histograma MACD não positivo (+0)",
+        "RSI fora da faixa de pontuação (+0)",
+        "Volume relativo abaixo de 1 ou indisponível (+0)"
+      ],
+      "warnings": [
+        "Candle do último pregão esperado, embora a coleta tenha ocorrido em outra data."
+      ],
+      "macd": {
+        "line": -1.0679365091773576,
+        "signal": -1.0530315902626173,
+        "histogram": -0.014904918914740328
+      }
+    },
+    "BBAS3": {
+      "ticker": "BBAS3",
+      "last_candle_date": "2026-11-25",
+      "candle_count": 1719,
+      "close": 14.69,
+      "mm20": 15.802499999999998,
+      "mm50": 20.228800000000007,
+      "mm200": 21.482500000000005,
+      "rsi14": 29.34723508616493,
+      "volume": 45657300,
+      "volume_average_previous_20": 72995555.0,
+      "volume_relative": 0.6254805515212536,
+      "recent_support_reference": 14.02,
+      "recent_resistance_reference": 18.31,
+      "data_fresh_for_collection_day": true,
+      "expected_session_date": "2026-11-25",
+      "classification": "SEM_CONFIRMACAO",
+      "technical_score": 2,
+      "technical_reasons": [
+        "Preço abaixo ou igual à MM20 (+0)",
+        "MM20 abaixo ou igual à MM50 (+0)",
+        "Histograma MACD positivo (+2)",
+        "RSI fora da faixa de pontuação (+0)",
+        "Volume relativo abaixo de 1 ou indisponível (+0)"
+      ],
+      "warnings": [
+        "Candle do último pregão esperado, embora a coleta tenha ocorrido em outra data."
+      ],
+      "macd": {
+        "line": -1.775590543939412,
+        "signal": -1.7896082073127215,
+        "histogram": 0.014017663373309563
+      }
+    },
+    "BBDC4": {
+      "ticker": "BBDC4",
+      "last_candle_date": "2026-11-25",
+      "candle_count": 1719,
+      "close": 14.19,
+      "mm20": 14.225,
+      "mm50": 17.369200000000003,
+      "mm200": 18.331749999999985,
+      "rsi14": 37.7873957109271,
+      "volume": 60019200,
+      "volume_average_previous_20": 76479415.0,
+      "volume_relative": 0.7847758772736428,
+      "recent_support_reference": 13.44,
+      "recent_resistance_reference": 16.3,
+      "data_fresh_for_collection_day": true,
+      "expected_session_date": "2026-11-25",
+      "classification": "SEM_CONFIRMACAO",
+      "technical_score": 2,
+      "technical_reasons": [
+        "Preço abaixo ou igual à MM20 (+0)",
+        "MM20 abaixo ou igual à MM50 (+0)",
+        "Histograma MACD positivo (+2)",
+        "RSI fora da faixa de pontuação (+0)",
+        "Volume relativo abaixo de 1 ou indisponível (+0)"
+      ],
+      "warnings": [
+        "Candle do último pregão esperado, embora a coleta tenha ocorrido em outra data."
+      ],
+      "macd": {
+        "line": -1.0449787608865009,
+        "signal": -1.155478782938524,
+        "histogram": 0.11050002205202314
       }
     }
   },
   "ranking": [
     {
+      "ticker": "BBAS3",
+      "score": 2,
+      "classification": "SEM_CONFIRMACAO"
+    },
+    {
       "ticker": "BBDC4",
+      "score": 2,
+      "classification": "SEM_CONFIRMACAO"
+    },
+    {
+      "ticker": "BOVA11",
       "score": 2,
       "classification": "SEM_CONFIRMACAO"
     },
@@ -223,16 +233,6 @@
     {
       "ticker": "VALE3",
       "score": 2,
-      "classification": "SEM_CONFIRMACAO"
-    },
-    {
-      "ticker": "BBAS3",
-      "score": 0,
-      "classification": "SEM_CONFIRMACAO"
-    },
-    {
-      "ticker": "BOVA11",
-      "score": 0,
       "classification": "SEM_CONFIRMACAO"
     },
     {
